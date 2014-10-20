@@ -12,9 +12,8 @@ Details of an order<br/>
 Friendly URL Disabled: http://www.yourstore.com/index.php?fc=module&module=monmodule&controller=orders&module_action=details&id_order=42 <br/>
 Friendly URL Enabled: http://www.yourstore.com/module/monmodule/orders?module_action=details&id_order=42 <br/>
 
-<br/><br/><br/>
-
-For this detail <br/> 
+<br/>
+For this example <br/> 
 http://www.yourstore.com/index.php?fc=module&module=custompage&controller=custommade <br/>
 http://www.yourstore.com/module/custompage/custommade <br/>
 
